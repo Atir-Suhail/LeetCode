@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Atir-Suhail/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Atir-Suhail/LeetCode/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/Atir-Suhail/LeetCode/tree/master/1153-product-sales-analysis-i) |
@@ -12,4 +12,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Atir-Suhail/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Atir-Suhail/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Atir-Suhail/LeetCode/tree/master/1827-invalid-tweets) |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0485-max-consecutive-ones](https://github.com/Atir-Suhail/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 <!---LeetCode Topics End-->
