@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Atir-Suhail/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0053-maximum-subarray](https://github.com/Atir-Suhail/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Atir-Suhail/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Atir-Suhail/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Atir-Suhail/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Atir-Suhail/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Two Pointers
@@ -66,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Atir-Suhail/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Atir-Suhail/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
