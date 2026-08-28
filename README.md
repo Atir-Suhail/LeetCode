@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Atir-Suhail/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0075-sort-colors](https://github.com/Atir-Suhail/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Atir-Suhail/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Two Pointers
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Atir-Suhail/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Atir-Suhail/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Atir-Suhail/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
