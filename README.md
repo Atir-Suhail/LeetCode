@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atir-Suhail/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Atir-Suhail/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Atir-Suhail/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Atir-Suhail/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Atir-Suhail/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Atir-Suhail/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Atir-Suhail/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atir-Suhail/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Atir-Suhail/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
