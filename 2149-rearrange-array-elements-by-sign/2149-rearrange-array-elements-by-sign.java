@@ -12,7 +12,7 @@ class Solution {
                 ans[negIndex]=num;
                 negIndex+=2;
             }
-            
+           
             
         }
         return ans;
