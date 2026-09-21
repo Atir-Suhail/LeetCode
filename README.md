@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Atir-Suhail/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Atir-Suhail/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Atir-Suhail/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Atir-Suhail/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Atir-Suhail/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Atir-Suhail/LeetCode/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -79,9 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Atir-Suhail/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Atir-Suhail/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Atir-Suhail/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Atir-Suhail/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
